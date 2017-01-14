@@ -5,7 +5,8 @@ package com.print.entrypoint;
  * This is the entrypoint to the application.It does the below
  * - Read the input  provided
  * - Validate and calculate cost for every print job
- * - Calculate the total cost  
+ * - Calculate the total cost
+ *   
  */
 
 public class CalculateTotalCost {

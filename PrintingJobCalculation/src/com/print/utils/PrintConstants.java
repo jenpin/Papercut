@@ -6,6 +6,7 @@ public class PrintConstants {
 
 	public enum PageType{
 		A4("A4");
+		
 		private final String value;
 		
 		private PageType(String value){

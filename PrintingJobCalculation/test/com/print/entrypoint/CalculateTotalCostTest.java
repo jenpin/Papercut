@@ -6,9 +6,12 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class CalculateTotalCostTest {
+	
+ CalculateTotalCost CalculateTotalCost;
 
 	@Before
 	public void setUp() throws Exception {
+		CalculateTotalCost = new CalculateTotalCost();
 	}
 
 	@Test
